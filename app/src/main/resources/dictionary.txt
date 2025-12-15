@@ -1,0 +1,25 @@
+# Персонажи
+йода=person:yoda
+люк скайуокер=person:luke skywalker
+хан соло=person:han solo
+обиван кеноби=person:obi-wan kenobi
+дарт вейдер=person:darth vader
+лея органа=person:leia organa
+чубакка=person:chewbacca
+энакен скайуокер=person:anakin skywalker
+
+# Планеты
+татуин=planet:tatooine
+корусант=planet:coruscant
+эндор=planet:endor
+алдераан=planet:alderaan
+дагоба=planet:dagobah
+
+# Фильмы
+новая надежда=film:A New Hope
+империя наносит ответный удар=film:The Empire Strikes Back
+возвращение джедая=film:Return of the Jedi
+атака клонов=film:Attack of the Clones
+месть ситхов=film:Revenge of the Sith
+
+

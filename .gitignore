@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+out/
+gradle-app.setting
+
+# IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jar files
+*.jar
+
+# Temporary files
+*.tmp
+
