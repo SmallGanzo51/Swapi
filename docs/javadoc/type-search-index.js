@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"dto","l":"DictionaryEntry"},{"p":"service","l":"DictionaryService"},{"p":"dto","l":"FilmDTO"},{"p":"util","l":"JsonParser"},{"p":"<Unnamed>","l":"Main"},{"p":"dto","l":"PersonDTO"},{"p":"dto","l":"PlanetDTO"},{"p":"service","l":"SwapiService"}];updateSearchResults();
